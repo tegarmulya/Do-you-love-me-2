@@ -89,7 +89,7 @@ startButton.addEventListener("click", () => {
         "<title>Do You Love Me?</title>"+
         "<link rel='stylesheet' href='styleMain.css'/>"
 
-        document.body.innerHTML = "<div class='wrapper'><h2 class='question'>Hello "+input+ "! emmm anu, lu suka gak sama gua?</h2>"+
+        document.body.innerHTML = "<div class='wrapper'><h2 class='question'>Hallaw "+input+ "! eummm, lu suka gak, sama gua?</h2>"+
         "<img class='gif' alt='gif' src='https://media.giphy.com/media/0kDdAFAELmvvFNUKim/giphy.gif'/>"+
         "<div class='btn-group'><button class='yes-btn'>Yes</button>"+
         "<button class='no-btn'>No</button></div></div>"
